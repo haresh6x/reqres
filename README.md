@@ -6,11 +6,14 @@
 # Register
 ![Alt text](/src/Screenshots/register.png?raw=true "Optional Title")
 
-# Login Success
-![Alt text](/src/Screenshots/login-success.png?raw=true "Optional Title")
+# Users
+![Alt text](/src/Screenshots/users.png?raw=true "Optional Title")
 
-# Login Failure
-![Alt text](/src/Screenshots/login-fail.png?raw=true "Optional Title")
+# Add
+![Alt text](/src/Screenshots/add.png?raw=true "Optional Title")
 
-# Multiple Users
-![Alt text](/src/Screenshots/multiple-register.png?raw=true "Optional Title")
+# Edit
+![Alt text](/src/Screenshots/edit.png?raw=true "Optional Title")
+
+# Delete
+![Alt text](/src/Screenshots/delete.png?raw=true "Optional Title")
