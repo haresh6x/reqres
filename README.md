@@ -1,12 +1,12 @@
 # Screenshots
 
 ##### Login with reqres
-email: eve.holt@reqres.in
+email: eve.holt@reqres.in<br>
 password: cityslicka
 
 ##### Login with reqres
-email: eve.holt@reqres.in
-password": pistol
+email: eve.holt@reqres.in<br>
+password: pistol
 
 # Login
 ![Alt text](/src/Screenshots/login.png?raw=true "Optional Title")
